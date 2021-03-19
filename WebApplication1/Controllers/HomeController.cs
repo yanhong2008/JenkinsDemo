@@ -20,7 +20,7 @@ namespace WebApplication1.Controllers
 
         public IActionResult Index()
         {
-            Console.WriteLine("hello");
+            Console.WriteLine("hello666");
             return View();
         }
 
